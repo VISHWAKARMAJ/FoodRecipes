@@ -42,7 +42,7 @@ export default function Home() {
             <div
               style={{
                 display: "grid",
-                color: "green",
+                color: "yellow",
                 position: "absolute",
                 width: "450px",
                 marginLeft: "100px",
@@ -50,7 +50,7 @@ export default function Home() {
               }}
               className="bg-red-000 rounded border shadow-md px-2 "
             >
-              <h1>DishName: {data.strMeal}</h1>
+              <h1> DishName: {data.strMeal}</h1>
               <p> Category: {data.strCategory}</p>
               <p>
                 {" "}
