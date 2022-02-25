@@ -10,6 +10,7 @@ export default function Navbar() {
         {" "}
         <img
           src="https://www.themealdb.com/images/ingredients/Lime.png"
+          alt=""
           style={{ height: "50px" }}
         />{" "}
       </p>

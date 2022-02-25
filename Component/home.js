@@ -36,7 +36,7 @@ export default function Home() {
           <div style={{ display: "grid" }}>
             {
               <div className="shadow-md  rounded px-2">
-                <img src={data.strMealThumb} />
+                <img src={data.strMealThumb} alt="foodImage" />
               </div>
             }
             <div
